@@ -1,1 +1,3 @@
 # WebPutzplanBackend
+Install:
+`npm i`
