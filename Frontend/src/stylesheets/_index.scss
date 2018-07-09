@@ -1,0 +1,50 @@
+.logo-image {
+	height: 250px;
+	position: absolute;
+	left: calc(50% - 125px);
+	top: calc(50% - 200px);
+}
+
+.login-user {
+	background-color: #cecece;
+    border: 0 !important;
+    position: absolute;
+    top: calc(50% - -120px);
+    left: calc(50% - 119px);
+    height: 35px;
+    width: 240px;
+    color: gray;
+    text-align: center;
+}
+
+.login-pass {
+	background-color: #cecece;
+    border: 0 !important;
+    position: absolute;
+    top: calc(50% - -179px);
+    left: calc(50% - 119px);
+    height: 35px;
+    width: 240px;
+    color: gray;
+    text-align: center;
+}
+
+.login-btn {
+	background-color: #454545;
+    border: 0 !important;
+    position: absolute;
+    top: calc(50% - -238px);
+    left: calc(50% - 119px);
+    height: 35px;
+    width: 240px;
+    color: lightgray;
+    text-align: center;
+    font-size: 18px;
+}
+
+.register-link {
+	position: absolute;
+    top: calc(50% - -281px);
+    left: calc(50% - 62px);
+    color: lightgray;
+}
