@@ -1,3 +1,4 @@
 # WebPutzplanBackend
 Install:
-`npm i`
+`cd /Frontend`
+`Follow instructions here`
